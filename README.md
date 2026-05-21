@@ -2,7 +2,7 @@ Copyright (c) 2022-2026 Samuel Plamondon
 
 # Overview
 
-This script takes one or more lists of SMILES strings and trims them to a target size using a sampling method that optimizes for having the lowest Tanimoto similarity scores between each pair of compounds. This leads to a relatively diverse set of compounds.
+This script takes one or more lists of SMILES strings and trims them to a target size using a sampling method that optimizes for having the lowest Tanimoto similarity score between each pair of compounds. This leads to a relatively diverse set of compounds.
 
 # Algorithm
 
