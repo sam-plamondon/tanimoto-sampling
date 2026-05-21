@@ -1,0 +1,13 @@
+Inputs
+Header of SMILES column
+Header of ID column
+Number of lists (n)
+Target list size
+Input filename (with extension) 1
+Input filename (with extension) 2
+...
+Output filename (with extension) n
+Output filename (with extension) 1
+Output filename (with extension) 2
+...
+Output filename (with extension) n
